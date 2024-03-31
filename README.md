@@ -1,4 +1,4 @@
-# mean_shift
+# Mean Shift Algorithm
 # Red Wine Quality Assessment
 
 This project focuses on assessing the quality of red wine based on various physicochemical properties. The analysis is performed using a Jupyter Notebook and covers several key steps in the data science workflow, including data preprocessing, model training, and model fine-tuning.
